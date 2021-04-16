@@ -6,21 +6,13 @@ int main()
 {
     char a[4];
     int b = 100;
-    int length = sizeof(a);
+   
 
-    // for(int i=0;i<4;i++){
-    //     a[i] =b;
-    // }
+    memcpy(a,&b,sizeof(int));
 
-    memcpy(&a[0], &b, sizeof(b));
-    
-    for(int i=0; i<4; i++)
-    {
-        printf("\n a[%d] = %x", i, a[i]);
+    for(int i=0;i<4;i++){
+        printf("a[%d]의 주소 : %x\n",i,&a[i]);  // 작은수 -> 큰수 순으로 주소 번지가 올라감 -> Little Endian 방식 
     }
-
-    printf("\n shortint size = %d", sizeof(short int));
-    printf("\n unsigned char size = %d", sizeof(unsigned char));
 
 
     return 0;
