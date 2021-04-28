@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(66,9): warning C4477: 'printf' : 서식 문자열 '%8x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'A'입니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(66,9): warning C4477: 'printf' : 서식 문자열 '%8x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'A'입니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(66,9): warning C4477: 'printf' : 서식 문자열 '%8x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'A *'입니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(66,9): warning C4477: 'printf' : 서식 문자열 '%8x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'A *'입니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(75,9): warning C4477: 'printf' : 서식 문자열 '%8x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'A'입니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(75,9): warning C4477: 'printf' : 서식 문자열 '%8x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'A'입니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(75,9): warning C4477: 'printf' : 서식 문자열 '%8x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'A *'입니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(75,9): warning C4477: 'printf' : 서식 문자열 '%8x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'A *'입니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(84,8): warning C4013: 'memcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\example2\main.c(56): warning C4172: 지역 변수 또는 임시: st_ptr의 주소를 반환하고 있습니다.
+  Project2.vcxproj -> C:\Users\YallaFactory\Desktop\재영의 작업공간\C공부 GitLab\Project2\Debug\Project2.exe
